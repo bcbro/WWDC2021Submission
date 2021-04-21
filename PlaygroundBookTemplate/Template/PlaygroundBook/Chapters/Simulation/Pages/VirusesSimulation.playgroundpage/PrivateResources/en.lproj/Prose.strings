@@ -1,0 +1,27 @@
+"ProseBlock"="
+## So what do each of the elements represent?
+
+The [red cells](glossary://redBloodCell) represent common [red blood cells](glossary://redBloodCell) which make up a majority of the bloodstream.
+
+![Red Blood Cells](/UserModules/bloodCell)
+
+The green cell from which [antibodies](glossary://antibody) shoot out from is a [B Cell](glossary://bCell).
+
+![B Cell](/UserModules/bCell-removebg-preview)
+
+The green cell covered in blue structures represents an infected [B Cell](glossary://bCell), indicating the game is over and your defensive measures have been neutralized by the [viruses](glossary://virus).
+
+![Infected B Cell](/UserModules/infectedBCell-removebg-preview)
+
+A blue cell demonstrates a infection of a common [red blood cell](glossary://redBloodCell). This occurence is what you want to prevent.
+
+![Infected Red Blood Cell](/UserModules/infectedCell)
+
+## Let’s play
+
+
+Directions:
+1. Tap once to start off the motion of elements in the scene
+2. Watch and observe the series of events.
+
+- Experiment: Try making the simulation harder by increasing the number of [viruses](glossary://virus). Or feel free to reduce the number of [viruses](glossary://virus).";
